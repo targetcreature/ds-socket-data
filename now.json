@@ -1,7 +1,0 @@
-{
-  "name": "ds-socket-data",
-  "alias": "ds-socket-data.vercel.app",
-  "env": {
-    "NODE_ENV": "production"
-  }
-}
