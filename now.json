@@ -1,6 +1,6 @@
 {
-  "name": "next-socket-io",
-  "alias": "next-socket-io.now.sh",
+  "name": "ds-socket-data",
+  "alias": "ds-socket-data.vercel.app",
   "env": {
     "NODE_ENV": "production"
   }
